@@ -1,0 +1,32 @@
+site_name: Just-API 中文
+theme:
+  name: material
+  palette:
+    accent: blue
+extra_javascript:
+  - js/extra.js  
+pages:
+  - Home: index.md
+  - 入门: getting-started.zh.md
+  - 基本 概念: basic-concepts.zh.md
+  - CLI 参考: CLI.zh.md
+  - 功能: features.zh.md
+  - 并行 运行: running-suites-in-parallel.zh.md
+  - 报告: reporters.zh.md
+  - 示例: examples.zh.md
+markdown_extensions:
+  - codehilite
+  - admonition
+google_analytics:
+  - UA-120233669-1
+  - auto
+repo_name: Just-API
+repo_url: https://github.com/chinanf-boy/just-api-zh
+edit_uri: "https://github.com/chinanf-boy/just-api-zh"
+extra:
+    social:
+      - type: 'github'
+        link: 'https://github.com/kiranz/just-api'
+      - type: 'twitter'
+        link: 'https://twitter.com/just_api_'
+
