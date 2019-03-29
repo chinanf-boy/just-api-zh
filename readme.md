@@ -4,9 +4,9 @@
 [translate-list]: https://github.com/chinanf-boy/chinese-translate-list
 
 
-「 是一个声明性的,基于规范的测试框架 」
+「 是一个声明性的,基于规范的测试`REST`,`GraphQL`API的框架 」
 
-[中文](./readme.md) | ~~[english](./readme.en.md)~~
+[中文](./readme.md) | [english](https://github.com/kiranz/just-api)
 
 
 ---
@@ -17,6 +17,12 @@
 <!-- repo = 'kiranz/just-api' -->
 <!-- commit = '975495748208e959b86b81b3cb0baba4d7da0ee5' -->
 <!-- time = '2018 8.27' -->
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018 8.27 | ![last] | [中文翻译][translate-list]
+
+[last]: https://img.shields.io/github/last-commit/kiranz/just-api.svg
+[commit]: https://github.com/kiranz/just-api/tree/975495748208e959b86b81b3cb0baba4d7da0ee5
 
 <!-- doc-templite END generated -->
 
@@ -36,7 +42,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
